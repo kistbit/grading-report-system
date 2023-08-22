@@ -30,26 +30,11 @@ Student.
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://link-to-projectjan
+  make run
 ```
 
 Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
 
 
 ## Features
@@ -62,5 +47,3 @@ Start the server
 - View results.
 - Login.
 - Reset password.
-
-
